@@ -1,5 +1,17 @@
+
 {
-    "scripts": {
-      "docs:build": "vuepress build docs"
-    }
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.8.4"
+  }
 }
