@@ -1,3 +1,7 @@
+---
+title: 👋 Introduction
+---
+
 # Introduction
 
 In these workshops, you'll be building a complete mobile app that can run on your iOS or Android device. Before getting started, you might be curious about the tools we'll use.
@@ -38,6 +42,6 @@ If you have existing Vue experience, you might be surprised at the template synt
 
 Because NativeScript uses native user interface components, HTML controls like `<div>` and `<span>` don’t exist in NativeScript. Instead you’ll need to learn a new set of components you can use to render your interfaces. Layouts often prove particularly tricky for new users, but you can learn more about them [here](http://nslayouts.com).
 
-## Let's get started!
-
 > Credits: This page was repurposed from the NativeScript-Vue documentation
+
+[Start Part 1](/docs/1.html)

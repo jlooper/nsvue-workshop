@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /logo-nsvue.png
 actionText: Get Started →
 actionLink: /docs/
 features:
