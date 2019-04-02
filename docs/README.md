@@ -42,6 +42,6 @@ If you have existing Vue experience, you might be surprised at the template synt
 
 Because NativeScript uses native user interface components, HTML controls like `<div>` and `<span>` don’t exist in NativeScript. Instead you’ll need to learn a new set of components you can use to render your interfaces. Layouts often prove particularly tricky for new users, but you can learn more about them [here](http://nslayouts.com).
 
-> Credits: This page was repurposed from the NativeScript-Vue documentation
+> Credits: This page was repurposed from the NativeScript-Vue documentation. Just want to check out the codebase for TarotMoji? It's [here](http://github.com/jlooper/tarotmoji).
 
 [Start Part 1](/docs/1.html)
