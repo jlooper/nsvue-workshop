@@ -8,7 +8,7 @@ module.exports = {
 	  editLinkText: 'Help us improve this page!',
       nav: [
         { text: 'NativeScript', link: 'http://www.nativescript.org' },
-        { text: 'Docs', link: 'http://www.nativescript.org/docs' },
+        { text: 'Docs', link: 'http://docs.nativescript.org/' },
         { text: 'NativeScript-Vue', link: 'http://www.nativescript-vue.org' }
       ],
       sidebar: [
